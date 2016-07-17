@@ -279,6 +279,9 @@ public class Webview02Activity extends Activity{
             mContext = c;
         }
 
+
+
+
         /** Show a toast from the web page */
         @JavascriptInterface
         public void showToast(String toast) {
